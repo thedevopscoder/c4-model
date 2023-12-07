@@ -99,5 +99,6 @@ Summarise the intent of a relationship.
 > All diagrams are to have a Key or Legend. Explain shapes, colors, line styles, and acronyms including those that are obvious to **you**.
 ## Complement the diagram
 › The narrative should complement the diagram rather than explain it.
+
 [A descriptive breakdown of Notations](https://youtu.be/x2-rSnhpw0g?t=1220)
 Placeholder - Here is a notations checklist - https://c4model.com/review/
