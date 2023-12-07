@@ -59,3 +59,33 @@ Notations should contain the following:-
 > Aim to be consistent with notation and element positioning.
 ### Acronyms
 › Careful consideration of the usage of acronyms, especially those unique to the business/domain.
+
+# Components (Level 3)
+At the Component level, we display the Logical components and their interactions within a container.
+We show the low-level technology choices. These should reflect code structure at a high level of a 1-2-1 mapping of code concepts to diagram concepts.
+[A video breakdown of Components ](https://youtu.be/x2-rShpw0g?t=1021)
+[image.png](/ attachments/image-c805458-7fd6-4439-aec6-72280d244e2c.png)
+_placeholder_
+<br></br>
+Here is a full video of the C4 Model
+>[Full Video](https://www.youtube.com/watch?v=x2-rSnhpw0g&t=288s)
+_35:32_
+# Notations
+Notations should contain the following:-
+## Titles on pictures/diagrams
+> Titles should be short and meaningful. Provide a diagram type and number the diagram if the order is important.
+### Visual Consistency
+› Aim to be consistent with notation and element positioning.
+### Acronyms
+> Careful consideration of the usage of acronyms, especially those unique to the business/domain.
+## Elements
+› It is ok to provide content via text boxes this adds a degree of explicitness but keep it short.
+### Lines
+› Favor uni-directional lines showing the most important dependencies or data flow. Annotations are to be explicit about the purpose of the line and direction.
+Summarise the intent of a relationship.
+#* Key / Legend
+> All diagrams are to have a Key or Legend. Explain shapes, colors, line styles, and acronyms including those that are obvious to **you**.
+## Complement the diagram
+› The narrative should complement the diagram rather than explain it.
+[A descriptive breakdown of Notations](https://youtu.be/x2-rSnhpw0g?t=1220)
+Placeholder - Here is a notations checklist - https://c4model.com/review/
