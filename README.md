@@ -16,7 +16,8 @@ Considerations :
 
   
 # What is the C4 Model?
-The C4 Model is an "abstraction-first" approach to diagramming software architecture
+The C4 Model is an "abstraction-first" approach to diagramming software architecture.
+
 C4 stands for:
 1. Context
 2. Containers
@@ -36,9 +37,10 @@ When drawing a system context diagram we need to be thinking or asking "Who's us
 We then can map the user alongside nonspecific technology systems.
 [Video breakdown of System Content](https://youtu.be/x2-rShpw0g?t=691)
 
-<br></br>
+<br>
 
 ## Containers (Level 2)
+
 The container level is the overall shape of the architecture and chosen technologies.
 As Developers, Architects, and Engineers, we will require further detail of our proposed/current solution(s).
 
@@ -60,7 +62,7 @@ We show the low-level technology choices. These should reflect code structure at
 _placeholder_
 <br></br>
 Here is a full video of the C4 Model -
->[Full Video] (https://www.youtube.com/watch?v=x2-rShpwog&t=288s) _35:32_
+[Full Video] (https://www.youtube.com/watch?v=x2-rShpwog&t=288s) _35:32_
 # Notations
 Notations should contain the following:-
 #* Titles on pictures/diagrams
