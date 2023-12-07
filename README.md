@@ -1,4 +1,3 @@
-[L_TOC_11
 # Setting the standard
 The team is to agree on a standard for how we document and design architectural diagrams.
 
